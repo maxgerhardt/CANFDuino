@@ -1,0 +1,16 @@
+{
+    "name": "framework-arduino-samd-canfduino",
+    "version": "1.1.0",
+    "description": "Togglebit Inc CANFDuino Boards (32-bits ARM Cortex-M0+)",
+    "keywords": [
+      "framework",
+      "arduino",
+      "microchip",
+      "samd"
+    ],
+    "license": "LGPL-2.1-or-later",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/togglebit/CANFDuino"
+    }
+  }
